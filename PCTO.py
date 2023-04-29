@@ -32,7 +32,6 @@ except:
 
 
 
-'''
 
 for x in range(1,11):
     sleep(0.3)
@@ -63,7 +62,7 @@ for x in range(1,11):
     browser.find_element(By.XPATH,f'/html/body/div[5]/main/div[2]/div/div/div/p/input').click()
 
 
-'''
+
 
 
 
